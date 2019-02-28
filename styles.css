@@ -1,0 +1,12 @@
+body{
+    text-align:center;
+}
+
+.dill{
+    border: black 10px groove;
+    border-radius: 50px;
+}
+
+.fortune{
+    margin-top: 20px;
+}
